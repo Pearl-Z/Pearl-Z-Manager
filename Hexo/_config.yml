@@ -75,3 +75,10 @@ deploy:
 
 # Duoshuo
 duoshuo_shortname: pearl-z
+duoshuo_share: ture
+
+# BaiduTongji
+baidu_analytics: 061f17b5fa6b495d7c588ef1b9d6c2aa
+
+# Swiftype Search Key
+swiftype_key: xz9Kb56WjsjiEvGP6xpQ
